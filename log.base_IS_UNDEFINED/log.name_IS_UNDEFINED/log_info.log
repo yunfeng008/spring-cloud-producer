@@ -1,0 +1,8 @@
+===2019-03-18 17:54:27.417 INFO  com.trecco.dzp.SpringCloudProducerApplicationTests Line:675 - No active profile set, falling back to default profiles: default
+===2019-03-18 17:54:30.815 INFO  com.zaxxer.hikari.HikariDataSource Line:110 - HikariPool-1 - Starting...
+===2019-03-18 17:54:31.075 INFO  com.zaxxer.hikari.HikariDataSource Line:123 - HikariPool-1 - Start completed.
+===2019-03-18 17:54:33.362 INFO  com.netflix.config.sources.URLConfigurationSource Line:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+===2019-03-18 17:54:33.370 INFO  com.netflix.config.sources.URLConfigurationSource Line:122 - To enable URLs as dynamic configuration sources, define System property archaius.configurationSource.additionalUrls or make config.properties available on classpath.
+===2019-03-18 17:54:37.640 INFO  com.trecco.dzp.SpringCloudProducerApplicationTests Line:59  - Started SpringCloudProducerApplicationTests in 12.593 seconds (JVM running for 13.72)
+===2019-03-18 17:54:37.898 INFO  com.zaxxer.hikari.HikariDataSource Line:350 - HikariPool-1 - Shutdown initiated...
+===2019-03-18 17:54:37.907 INFO  com.zaxxer.hikari.HikariDataSource Line:352 - HikariPool-1 - Shutdown completed.

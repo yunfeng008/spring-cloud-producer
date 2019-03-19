@@ -1,0 +1,4 @@
+===2019-03-18 17:54:28.500 WARN  org.springframework.boot.actuate.endpoint.EndpointId Line:135 - Endpoint ID 'service-registry' contains invalid characters, please migrate to a valid format.
+===2019-03-18 17:54:33.361 WARN  com.netflix.config.sources.URLConfigurationSource Line:121 - No URLs will be polled as dynamic configuration sources.
+===2019-03-18 17:54:33.370 WARN  com.netflix.config.sources.URLConfigurationSource Line:121 - No URLs will be polled as dynamic configuration sources.
+===2019-03-18 17:54:34.264 WARN  org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration$JpaWebMvcConfiguration Line:236 - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
