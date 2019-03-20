@@ -59,8 +59,10 @@ public class UserController {
         return userService.findByIdCard2(idCard);
     }
 
-    @RequestMapping(value = "/findByIdCard3/{idCard}", method = RequestMethod.GET)
-    public User findByIdCard3(@PathVariable(name = "idCard") String idCard) {
+    @RequestMapping(value = "/findByIdCard3/idCard/{idCard}/token/{token}", method = RequestMethod.GET)
+    public User findByIdCard3(@PathVariable String idCard,@PathVariable String token) {
+        log.info(idCard);
+        log.info(token);
         return userService.findByIdCard3(idCard);
     }
 
