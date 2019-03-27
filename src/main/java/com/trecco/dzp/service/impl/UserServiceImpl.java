@@ -65,6 +65,7 @@ public class UserServiceImpl implements UserService {
         userRepository.deleteByIdCard(idCard);
     }
 
+    @Transactional
     @Override
     public void deleteByIdCard2(String idCard) {
         userRepository.deleteByIdCard2(idCard);
